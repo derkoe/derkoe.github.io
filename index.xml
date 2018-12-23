@@ -1,48 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>derkoe</title>
-    <link>https://derkoe.github.io/</link>
-    <description>Recent content on derkoe</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 22 Dec 2018 13:11:22 +0100</lastBuildDate>
-    
-	<atom:link href="https://derkoe.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>About</title>
-      <link>https://derkoe.github.io/about/</link>
-      <pubDate>Sat, 22 Dec 2018 13:11:22 +0100</pubDate>
-      
-      <guid>https://derkoe.github.io/about/</guid>
-      <description>My name is Christian Köberl and I am a software engineer @ Porsche Informatik in Salzburg, Austria.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>derkoe</title><link>https://derkoe.github.io/</link><description>Recent content on derkoe</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 22 Dec 2018 13:11:22 +0100</lastBuildDate><atom:link href="https://derkoe.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>About</title><link>https://derkoe.github.io/about/</link><pubDate>Sat, 22 Dec 2018 13:11:22 +0100</pubDate><guid>https://derkoe.github.io/about/</guid><description>My name is Christian Köberl and I am a software engineer @ Porsche Informatik in Salzburg, Austria.
 I have 20+ yeare experience in software development and have been working in different areas of the software engineering process.
 I have a broad expertise from frontend development over backend engineering to operations.
-About the site This site was generated with Hugo and is based on the Hermit theme.</description>
-    </item>
-    
-    <item>
-      <title>Talks</title>
-      <link>https://derkoe.github.io/talks/</link>
-      <pubDate>Sat, 22 Dec 2018 13:11:22 +0100</pubDate>
-      
-      <guid>https://derkoe.github.io/talks/</guid>
-      <description> Typescript - the Better JavaScript?
+About the site This site was generated with Hugo and is based on the Hermit theme.</description></item><item><title>Talks</title><link>https://derkoe.github.io/talks/</link><pubDate>Sat, 22 Dec 2018 13:11:22 +0100</pubDate><guid>https://derkoe.github.io/talks/</guid><description> Typescript - the Better JavaScript?
 We Are Developers, 2017
 Video | Slides
- Container Orchestration - Kubernetes and OpenShift
+Container Orchestration - Kubernetes and OpenShift
 Salzburg Web Dev Meetup, 2017
 Slides
- Unternehmen brauchen eine Open Source Strategie
+Unternehmen brauchen eine Open Source Strategie
 IT Businesstalk, 2015
 Slides
- Why choose Tapestry as your web framework?
+Why choose Tapestry as your web framework?
 CONFESS (Conference for Enterprise Software Solutions), 2012
-Slides
-  </description>
-    </item>
-    
-  </channel>
-</rss>
+Slides</description></item></channel></rss>
