@@ -6,19 +6,10 @@
     <description>Recent content in linux on Christian Köberl</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 07 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://derkoe.github.io/tags/linux/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Beating C with 30 Lines of Java</title>
-      <link>https://derkoe.github.io/blog/beating-c-with-java/</link>
-      <pubDate>Sun, 07 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://derkoe.github.io/blog/beating-c-with-java/</guid>
-      <description>&lt;p&gt;Hello, World!&lt;/p&gt;</description>
-    </item>
     
     <item>
       <title>Development Environment in WSL2</title>
